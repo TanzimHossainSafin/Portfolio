@@ -1,0 +1,12 @@
+.next
+node_modules
+out
+dist
+*.log
+*.tsbuildinfo
+.idea
+
+# Local source assets copied into public/ for the deployed site
+B323A541-28B4-45A5-9103-54F201258569 2-2.jpg
+TANZIM HOSSAIN SAFIN _Resume Ai and Software Engineering .docx.pdf
+TANZIM HOSSAIN SAFIN _Resume_Blockchain.docx-2.pdf
